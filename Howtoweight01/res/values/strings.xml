@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">Weightのサンプル</string>
+    <string name="app_name">Howtoweight01</string>
+    <string name="btn1">Go Sample1Activity</string>
+    <string name="btn2">Go Sample2Activity</string>
+    <string name="text1">weight 1</string>
+    <string name="text2">weight 0</string>
+</resources>
