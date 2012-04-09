@@ -2,9 +2,14 @@
 
 ＊EclipseのAndroidプロジェクトです。
 
+■Howtoweight01
 <内容>
 画面が2つのViewから作られていて、layout_weightが片方が０で片方が１のサンプルを作りました。
 ソースコードで書いたもの(Sample1Activity)とXMLで定義したもの(Sample2Activity)を含んでいます。
 
 <メモ>
 よくワードとかのフッターみたいに、画面下部にViewを寄せたレイアウトを作りたいと思うのですが、Weightの使い方を良く忘れるので備忘録的に載せました。
+
+■Waku
+<内容>
+TableLayoutにソースコードで枠を付けました。マージンと背景色の設定で表示しました。
