@@ -13,3 +13,9 @@
 ■Waku
 <内容>
 TableLayoutにソースコードで枠を付けました。マージンと背景色の設定で表示しました。
+
+
+■TabTest
+<内容>
+タブの表示。Honeycomb以降ではActionBarを使うようなので、TabHostを使った例とActionBarを用いた場合の2通り作りました。
+
