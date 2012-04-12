@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">タブのサンプル</string>
+    <string name="loading">Now Loading</string>
+    <string name="txt1">画面1</string>
+    <string name="txt2">画面2</string>
+    <string name="txt3">画面3</string>
+    <string name="txt4">画面4</string>
+    <string name="txt5">画面5</string>
+    <string name="tab1">スクリーン1</string>
+    <string name="tab2">スクリーン2</string>
+    <string name="tab3">スクリーン3</string>
+    <string name="tab4">スクリーン4</string>
+    <string name="tab5">スクリーン5</string>
+</resources>

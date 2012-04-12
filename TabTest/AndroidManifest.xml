@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="orange.sample"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="4" android:targetSdkVersion="11" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        
+        <activity 
+            android:name=".SplashActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        
+        <activity 
+            android:name=".TabHoneycombActivity"
+            android:label="@string/app_name">
+        </activity>
+        
+        <activity 
+            android:name=".TabOldVersionActivity"
+            android:label="@string/app_name">
+        </activity>
+        
+         <activity 
+            android:name=".ScreenOneActivity"
+            android:label="@string/txt1">
+        </activity>
+        
+        <activity 
+            android:name=".ScreenTwoActivity"
+            android:label="@string/txt2">
+        </activity>
+        
+         <activity 
+            android:name=".ScreenThreeActivity"
+            android:label="@string/txt3">
+        </activity>
+        
+        <activity 
+            android:name=".ScreenFourActivity"
+            android:label="@string/txt4">
+        </activity>
+        
+        <activity 
+            android:name=".ScreenFiveActivity"
+            android:label="@string/txt5">
+        </activity>
+
+        
+    </application>
+    
+
+
+</manifest>
